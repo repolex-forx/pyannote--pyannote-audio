@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyannote/pyannote-audio/commit/b749285c5cdd4636b2edc7f766f1352c8dde9369",
       "git:hexsha": "b749285c5cdd4636b2edc7f766f1352c8dde9369",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.0.7"
     },
     {
