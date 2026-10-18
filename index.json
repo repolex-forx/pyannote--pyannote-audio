@@ -1,0 +1,11 @@
+{
+  "org": "pyannote",
+  "repo": "pyannote-audio",
+  "versions": [
+    {
+      "commit": "b749285c5cdd4636b2edc7f766f1352c8dde9369",
+      "tag": "4.0.7",
+      "parsed_at": "2026-10-18T01:51:01.897947+00:00"
+    }
+  ]
+}
