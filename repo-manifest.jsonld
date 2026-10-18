@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pyannote/pyannote-audio/commit/b749285c5cdd4636b2edc7f766f1352c8dde9369",
       "git:hexsha": "b749285c5cdd4636b2edc7f766f1352c8dde9369",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "4.0.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "4.0.7",
+      "repolex:parsedAt": "2026-10-18T01:51:01.897315+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pyannote/pyannote-audio/commit/d841ae13e8e527dd04109be1004f5c345a46afa5",
